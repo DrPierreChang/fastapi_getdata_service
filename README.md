@@ -1,0 +1,1 @@
+# fastapi_getdata_service
